@@ -6,9 +6,10 @@ Submitted by: **Brendan Doonan**
 
 Time spent: **1** hours spent in total
 
-Link to project: https://50c812ff-745f-46bb-b306-799b307eb357@api.glitch.com/git/whip-obvious-leotard
+Link to project: https://github.com/bdoonan/prework/blob/main/README.md
 
 ## Required Functionality
+
 
 The following **required** functionality is complete:
 
